@@ -73,4 +73,4 @@ A different Fortran library offering similar calculations:
 
 ## Credit
 
-If you use any of the **CPS** codes in published research, you must cite [Herrmann (2013)](https://doi.org/10.1785/0220110096). If you use `respknt` from **Rftn**, you must cite [Randall (1994)](https://doi.org/10.1111/j.1365-246X.1994.tb04687.x). If you found these Python wrappers helpful, please mention the **PyLayeredModel** GitHub page in your acknowledgement section.
+If you use any of the **CPS** codes in published research, you must cite [Herrmann (2013)](https://doi.org/10.1785/0220110096). If you use `respknt` from **Rftn**, you must cite [Randall (1994)](https://doi.org/10.1111/j.1365-246X.1994.tb04687.x). If you found these Python wrappers helpful, please mention the **PyLayeredModel** [GitHub page](https://github.com/harrymd/PyLayeredModel) in your acknowledgement section.
