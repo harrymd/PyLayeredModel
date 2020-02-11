@@ -67,6 +67,10 @@ Other wrappers for **CPS** in Python:
 * [**pysurf96**](https://github.com/miili/pysurf96) Dispersion calculations, wrapped using `f2py` instead of `subprocess`, so it should be faster than **PyLayeredModel**.
 * [**srfpython**](https://github.com/obsmax/srfpython) 'Compute, display and invert 1-D models'.
 
+A Python library calculating dispersion from scratch, including radial anisotropy:
+
+* [**dispersion**](https://github.com/tbmcoding/dispersion)
+
 A different Fortran library offering similar calculations:
 
 * [**SensKernel**](https://github.com/NoiseCIEI/SensKernel).
